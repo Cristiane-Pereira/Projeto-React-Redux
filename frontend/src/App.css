@@ -1,0 +1,36 @@
+body {
+  width: 100%;
+    height: 620px;
+    font-family: 'Teko', sans-serif;
+    color: #505097 ;
+    background-image: url(./assets/berries-2277_1920.jpg);
+}
+.div{
+    text-align: center;
+    background-color:#FBFBFB;
+    border: solid 5px#77778F ;
+    margin: 10% 20%;
+    height: 450px;
+    border-radius: 8px;
+    padding: 6% 0 0 0;
+}
+.input1{
+  width: 300px;
+  border: solid 2px #77778F ;
+  border-radius: 4px;
+  color: #281C1C;
+  height: 1.4rem;
+}
+.input2{
+  border: solid 2px #77778F ;
+  border-radius: 4px;
+  color: #281C1C;
+  height: 1.4rem;
+}
+button{
+  background-color:#889add ;
+  padding: 4.6px 0;
+  width: 50px;
+  margin-left: 5px;
+  color: white;
+}
